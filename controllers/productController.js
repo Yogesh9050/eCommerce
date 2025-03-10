@@ -1,4 +1,4 @@
-let product = [];
+let products = [];
 
 const getAllProducts = (req, res) => {
     res.send('Fetching all products');
